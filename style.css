@@ -7,7 +7,7 @@ body {
 .bck-img {
   background-image: url(public/images/img.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
 }
 
